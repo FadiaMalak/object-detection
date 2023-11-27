@@ -1,1 +1,1 @@
-print('Bonjour AMSD et MLSD')
+print('Bonjour M1 AMSD et MLSD')
